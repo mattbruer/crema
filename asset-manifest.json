@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crema/static/css/main.31d6cfe0.css",
+    "main.js": "/crema/static/js/main.4cdcb5ec.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/crema/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/crema/index.html",
+    "main.4cdcb5ec.js.map": "/crema/static/js/main.4cdcb5ec.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/crema/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4cdcb5ec.js"
+  ]
+}
